@@ -1,0 +1,44 @@
+.web_body .vector{
+    width: 1000px;
+    height: 740px;
+    clip-path: circle(67.7% at 75% 32%);
+    margin-left: 600px;
+    position: relative;
+    margin-top: -10px;
+}
+h1{
+    color: #213F7A;
+    margin: 0px;
+    margin-top: -505px;
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color: #213F7A;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px;
+}
+button{
+    background-color: #213F7A;
+    border-radius: 30px;
+    border: none;
+    width: 180px;
+    height: 45px;
+    margin-left: 69px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.a2{
+    color: #213F7A;
+    text-decoration: none;
+}
+.button2{
+    position: absolute;
+    margin: 0px;
+    margin-left: 1111px;
+    margin-top: -548px;
+    background-color: white; 
+}
