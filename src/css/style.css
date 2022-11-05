@@ -1,44 +1,63 @@
-.web_body .vector{
-    width: 1000px;
-    height: 740px;
-    clip-path: circle(67.7% at 75% 32%);
-    margin-left: 600px;
-    position: relative;
-    margin-top: -10px;
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+background-color: #3b5998;
+}
+#register{
+width: 400px;
+height: 550px;
+background-color: white;
+padding: 20px;
+margin: 45px auto;
+
+}
+form input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    
+}
+label{
+    margin: 10px 0px;
+    display: block;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 400;
 }
 h1{
-    color: #213F7A;
-    margin: 0px;
-    margin-top: -505px;
-    margin-left: 50px;
-    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 23px;
 }
-h2{
-    color: #213F7A;
-    font-size: 18px;
-    font-family: 'Montserrat', sans-serif;
-    margin: 50px;
+h4{
+   
+    color: black;
+    font-size: 13px;
 }
 button{
-    background-color: #213F7A;
-    border-radius: 30px;
-    border: none;
-    width: 180px;
-    height: 45px;
-    margin-left: 69px;
+    width: 100%;
+    height: 0px 0px;
+    padding: 10px;
+    background-color: #FFD372;
+    margin: 15px auto; 
+}
+
+button:active{
+    background-color: #FD841F;
 }
 a{
-    color: white;
-    text-decoration: none;
+    text-align: center;
+    
 }
-.a2{
-    color: #213F7A;
-    text-decoration: none;
+img{
+    width: 150px;
+    height: 40px;
+    object-position: center;  
 }
-.button2{
-    position: absolute;
-    margin: 0px;
-    margin-left: 1111px;
-    margin-top: -548px;
-    background-color: white; 
+h5{
+    margin: 10px auto;
+    
 }
